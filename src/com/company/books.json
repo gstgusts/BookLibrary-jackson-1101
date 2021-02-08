@@ -1,0 +1,9 @@
+[ {
+  "title" : "Lauztās priedes",
+  "isbnCode" : "1241234",
+  "authors" : [ {
+    "name" : "Jānis",
+    "surname" : "Rainis",
+    "nickName" : "janis"
+  } ]
+} ]

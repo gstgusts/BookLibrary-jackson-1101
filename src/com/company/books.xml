@@ -1,0 +1,22 @@
+<ArrayList>
+  <item>
+    <title>Lauztās priedes</title>
+    <isbnCode>1241234</isbnCode>
+    <author nickName="janis">
+      <name>Jānis</name>
+      <surname>Rainis</surname>
+    </author>
+  </item>
+  <item>
+    <title>Harry Potter</title>
+    <isbnCode>345634</isbnCode>
+    <author nickName="janis">
+      <name>Jānis</name>
+      <surname>Rainis</surname>
+    </author>
+    <author nickName="rk">
+      <name>Reinis</name>
+      <surname>Kļava</surname>
+    </author>
+  </item>
+</ArrayList>
