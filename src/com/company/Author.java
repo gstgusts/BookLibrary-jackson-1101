@@ -3,9 +3,11 @@ package com.company;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 
 //@JsonIgnoreProperties(ignoreUnknown = true)
+//@JsonPropertyOrder({"name","surname","nickName"})
 public class Author {
     private String name;
     private String surname;
